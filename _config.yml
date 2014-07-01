@@ -1,0 +1,75 @@
+title:        Media Theory and Modernity
+subtitle:     
+version:      $version$
+date:         $date$
+description:  A graduate-level seminar in media theory
+published:    true
+license:      > 
+              This work is licensed under a Creative Commons 
+              Attribution-NonCommercial-ShareAlike 4.0 International License.
+url:          http://medtheory.bitfragment.net
+note:         
+author:       $author$
+email:        $email$
+affiliation:  | 
+              | Departments of English and Comparative Literature
+              | Pennsylvania State University
+              | University Park, PA 16801 USA
+id_:          '$Id$'    # git
+archive_:     '$Format:%h %ci$' # 'git archive'
+project:      medtheory
+category:     records
+subcategory:  teaching
+tags:         # [tag1, tag2] for Pandoc
+created:      2014-06-30
+layout:        # for Jekyll
+bibliography: /Users/blennon/sync/lib/bib/dummy.bib
+biblio-title: 'Works Cited' # for Pandoc
+csl:          /Users/blennon/sync/lib/csl/modern-language-association.csl
+css:          # filepath
+Marked CSS:   # filepath
+Marked Style: # style sheet
+Custom Preprocessor: false # Marked.app
+abstract:     
+
+tagline:      ''
+author-url:   http://bitfragment.net
+baseurl:      http://medtheory.bitfragment.net
+
+yammer:       https://www.yammer.com/psu.edu/#/threads/inGroup?type=in_group&feedId=4515141
+wiki:         https://wikispaces.psu.edu/display/medtheory
+wikiblog:     https://wikispaces.psu.edu/pages/viewrecentblogposts.action?key=medtheory
+blog:         https://sites.psu.edu/medtheory
+zotero:       https://www.zotero.org/echteunendlichkeit/items/collectionKey/C38GBBIQ
+repo-pdf:     https://protected.personal.psu.edu/bul5/medtheory/pdf
+pinboard:     https://pinboard.in/u:bitfragment/t:medtheory
+calendar:     https://calendly.com/blennon
+office:       "[Webster's Bookstore Café](http://www.webstersbooksandcafe.com)"
+poll1:        http://doodle.com/dz5qzwczaz3tgf8f
+poll2:        http://doodle.com/vsbwzwuub7vk244i
+
+exclude:      [build, pdf, README.md, resources, snapshot]
+include:      [.nojekyll]
+
+permalink:     pretty
+highlighter:   pygments
+
+markdown:      kramdown
+kramdown:
+  auto_ids:      true
+  footnote_nr:   1
+  entity_output: as_char
+  toc_levels:    1..6
+  smart_quotes:  lsquo,rsquo,ldquo,rdquo
+
+# jekyll-scholar
+scholar:
+  # style:        chicago-fullnote-bibliography
+  style:        https://raw.githubusercontent.com/citation-style-language/styles/master/modern-language-association.csl
+  # style:        https://raw.githubusercontent.com/citation-style-language/styles/master/modern-language-association-with-url.csl
+  source:       ./
+  repository:   ./pdf/
+  sort_by:      author
+  order:        ascending
+  bibliography: #
+  bibliography_template: bib
