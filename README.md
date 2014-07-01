@@ -1,7 +1,7 @@
 medtheory
 =========
 
-Graduate seminar "Media Theory and Modernity"
+A graduate-level seminar in media theory
 
 * 01-description.md --  Course description
 * 02-sites.md --  List of course Web sites
