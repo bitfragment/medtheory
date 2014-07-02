@@ -1,15 +1,15 @@
 ---
 title:        Other
 subtitle:     
-version:      $version$ # git
-date:         $date$    # git
+version:      $version$
+date:         $date$
 description:  Other notes on course procedures
 published:    true
 license:      
 url:          
 note:         
-author:       $author$ # git
-email:        $email$  # git
+author:       $author$
+email:        $email$
 affiliation:  | 
               | Departments of English and Comparative Literature
               | Pennsylvania State University
@@ -47,13 +47,13 @@ abstract:
 
 ## Office hours/ appointments
 
-* Office hours: use my [Calendly page]({{ site.calendar }}) to view availability and request an appointment. Meetings are in {{ site.office }}.
+While the [Burrowes Renovation Project](http://www.la.psu.edu/burrowes-project) is underway, office hours are held by appointment only in {{ site.office }}. Use my [Calendly page]({{ site.calendar }}) to view availability and request an appointment.
 
-## Privacy and content ownership
+## Privacy and content preservation
 
 * The content of both the [wiki]({{ site.wiki }}) and the [sites.psu.edu site]({{ site.blog }}) is visible to no one but current members of the seminar (that is, it is a restricted access space, accessible to no one else at Penn State or outside Penn State).
 
-* After the semester ends, you will all remain authorized editors of both the [wiki]({{ site.wiki }}) and the [sites.psu.edu site]({{ site.blog }}), and will be welcome to participate virtually in future iterations of this seminar, as well as to restrict access to your contributed content or delete it entirely, if you wish.
+* After the semester ends, you will all remain authorized editors of both the [wiki]({{ site.wiki }}) and the [sites.psu.edu site]({{ site.blog }}), and will be welcome to participate virtually in future iterations of this seminar, as well as to restrict access to your individually contributed content (position papers and responses) or delete it entirely, if you wish.
 
 ## Weekly note assignments
 
