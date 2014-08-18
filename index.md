@@ -53,7 +53,7 @@ abstract:
 * Read (or reread) Mitchell and Hansen, "Introduction," *Critical Terms for Media Studies* ([A]({{ site.baseurl }}/03-a-readings))
 * Read (or reread) Guillory, "Genesis of the Media Concept" ([B]({{ site.baseurl }}/04-b-readings))
 * Choose another chapter in Mitchell and Hansen, *Critical Terms for Media Studies* ([A]({{ site.baseurl }}/03-a-readings))
-* Write a 750-word commentary on Guillory, Mitchell and Hansen, and the A-level readings for this session by Innis (below) and post it on the [wiki blog]({{ site.wikiblog }}/) by no later than 12 hours before our meeting
+* Write a 750-word commentary on Guillory, Mitchell and Hansen, and the A-level readings for this session by Innis (below) and post it on the [wiki blog]({{ site.wikiblog }}/) (← this link works only if you are already logged in) by no later than 12 hours before our meeting
 * Drawing on this blog post, prepare five minutes' worth of remarks to be delivered during our meeting
 * [A]({{ site.baseurl }}/03-a-readings): Innis, *Bias of Communication*: Introductions; Preface; "Industrialism and Cultural Values"; "A Critical Review"; "Adult Education and Universities"
 * [C]({{ site.baseurl }}/05-c-readings): Watson, "Introduction: The Innisian Puzzle"
