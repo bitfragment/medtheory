@@ -45,8 +45,8 @@ repo-pdf:     https://protected.personal.psu.edu/bul5/medtheory/pdf
 pinboard:     https://pinboard.in/u:bitfragment/t:medtheory
 calendar:     https://calendly.com/blennon
 office:       "[Webster's Bookstore Café](http://www.webstersbooksandcafe.com)"
-poll1:        http://doodle.com/dz5qzwczaz3tgf8f
-poll2:        http://doodle.com/vsbwzwuub7vk244i
+poll1:        http://doodle.com/k2kqzipbfctaq2wv
+poll2:        http://doodle.com/qsae7w6gsf4gasir
 
 exclude:      [build, pdf, README.md, resources, snapshot]
 include:      [.nojekyll]
