@@ -8,8 +8,8 @@ published:    true
 license:      
 url:          
 note:         
-author:       $author$ # git
-email:        $email$  # git
+author:       Brian Lennon # git
+email:        blennon@bitfragment.net  # git
 affiliation:  | 
               | Departments of English and Comparative Literature
               | Pennsylvania State University
