@@ -19,6 +19,11 @@ A graduate-level seminar in media theory
 Changelog
 ---------
 
-### v1.0.0-beta-2 (2014-07-01)
+### v1.0.0 2014-08-25
 
--beta-2   Initial commit
+Version 1.0.0, Fall 2014
+
+
+### v1.0.0-beta-2 2014-07-01
+
+    -beta-2   Initial commit
