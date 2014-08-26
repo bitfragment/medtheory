@@ -44,7 +44,7 @@ abstract:
   - Guillory, "Genesis of the Media Concept" ([B]({{ site.baseurl }}/04-b-readings))
   - Lennon, "New Stationary States" ([B]({{ site.baseurl }}/04-b-readings))
   - Lennon, "Machine Translation" ([B]({{ site.baseurl }}/04-b-readings))
-  - Lennon, "The Digital Humanities" ([B]({{ site.baseurl }}/04-b-readings))
+  - Lennon, "The Digital Humanities and National Security" ([B]({{ site.baseurl }}/04-b-readings))
 * Using [this Doodle poll]({{ site.poll1 }}), choose one session for your position paper.
 * Using [this Doodle poll]({{ site.poll2 }}), choose one session for your response paper.
 
