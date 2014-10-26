@@ -112,8 +112,8 @@ abstract:
 
 ## Session 8: Flusser
 
-* [A]({{ site.baseurl }}/03-a-readings): Flusser, *Does Writing Have a Future?*
 * [A]({{ site.baseurl }}/03-a-readings): Flusser, *Post-History*
+* [A]({{ site.baseurl }}/03-a-readings): Flusser, *Does Writing Have a Future?*
 * [C]({{ site.baseurl }}/05-c-readings): Finger et al., *Vilém Flusser: An Introduction*
 * [C]({{ site.baseurl }}/05-c-readings): van Meer, "Text, Image, Flusser"
 * [C]({{ site.baseurl }}/05-c-readings): Roth, "Visual Consciousness: The Impact of New Media on Literate Culture"
