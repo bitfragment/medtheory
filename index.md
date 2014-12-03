@@ -187,9 +187,9 @@ abstract:
 ## Session 15: Working paper, III
 
 * Finish and add incorporate abstracts to begin each section
+* Begin commenting on segments and paragraphs of working paper
 * Viewing and discussion
 * Adjourn for refreshment?
-* Begin commenting on segments and paragraphs of working paper
 
 ## Coda
 
